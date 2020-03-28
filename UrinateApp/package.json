@@ -23,7 +23,7 @@
     "react-native-wechat": "^1.9.10",
     "react-navigation": "^2.11.2",
     "seer-react-native-image-zoom-viewer": "^2.0.0",
-    "yarn": "^1.9.4"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "babel-jest": "23.4.2",
